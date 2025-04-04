@@ -1,0 +1,11 @@
+{
+    "template": "basic_fr.docx",
+	"locale": "fr_FR.UTF-8",
+    "file_prefix": "FACTURE_no",
+    "invoice_number": 1,
+    "invoice_month": 3,
+    "unit_price_ht": 300,
+    "quantity": 11,
+    "my_name": "MY_NAME",
+    "client_name": "BILLED_COMPANY"
+}
