@@ -1,0 +1,11 @@
+{
+	"locale": "fr_FR.UTF-8",
+    "file_prefix": "FACTURE_no",
+    "invoice_number": 10,   
+    "invoice_month": 4,
+    "unit_price_ht": 350,
+    "tva": 0,
+    "quantity": 2,
+    "my_name": "Me",
+    "client_name": "ClientName"
+}
